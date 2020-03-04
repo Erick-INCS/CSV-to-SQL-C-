@@ -1,0 +1,6 @@
+D:\source\repos\Practicas\CSVreader\CSVreader\bin\Debug\CSVreader.exe.config
+D:\source\repos\Practicas\CSVreader\CSVreader\bin\Debug\CSVreader.exe
+D:\source\repos\Practicas\CSVreader\CSVreader\bin\Debug\CSVreader.pdb
+D:\source\repos\Practicas\CSVreader\CSVreader\obj\Debug\CSVreader.csprojAssemblyReference.cache
+D:\source\repos\Practicas\CSVreader\CSVreader\obj\Debug\CSVreader.exe
+D:\source\repos\Practicas\CSVreader\CSVreader\obj\Debug\CSVreader.pdb
